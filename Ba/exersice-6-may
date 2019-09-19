@@ -1,0 +1,39 @@
+mendel
+
+
+Bayesian Inference and Data Assimilation
+
+
+
+Review Linear Algebra
+
+
+E[X]= )= (E[X1]...E[Xn])  E R^n
+
+
+
+
+tr(C) = sum (cii)
+
+a^Tb = sum_i_N a_i b_i = tr(ab^T) =  tr(ba^T)
+
+symmetric
+
+
+covariance matrix
+
+question is Cov(X,Y) symmetric? 
+
+X,Y omega -  R 
+
+
+A^1/3 
+
+
+singular value decomposition
+
+
+Multivariate Gaussian RV
+
+
+

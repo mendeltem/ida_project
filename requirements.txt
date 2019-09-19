@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-image
+scikit-learn
+opencv
+tqdm
+tensorflow
+keras
+
+
+IPython[all]
+
